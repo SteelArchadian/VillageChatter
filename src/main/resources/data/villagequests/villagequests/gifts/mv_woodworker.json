@@ -1,0 +1,19 @@
+{
+  "professions": [
+    "morevillagers:woodworker"
+  ],
+  "love": [
+    "minecraft:diamond_axe",
+    "minecraft:cherry_log",
+    "minecraft:chiseled_bookshelf"
+  ],
+  "like": [
+    "#minecraft:logs",
+    "#minecraft:planks",
+    "minecraft:iron_axe",
+    "#minecraft:saplings"
+  ],
+  "meh": [
+    "minecraft:stick"
+  ]
+}

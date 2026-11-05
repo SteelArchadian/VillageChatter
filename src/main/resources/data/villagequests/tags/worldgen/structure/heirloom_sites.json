@@ -1,0 +1,7 @@
+{
+  "values": [
+    "#minecraft:mineshaft",
+    "#minecraft:ruined_portal",
+    { "id": "minecraft:trail_ruins", "required": false }
+  ]
+}

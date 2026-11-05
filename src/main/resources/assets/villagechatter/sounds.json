@@ -1,0 +1,306 @@
+{
+  "ui.advance": {
+    "sounds": [
+      "villagechatter:ui/advance"
+    ]
+  },
+  "ui.close": {
+    "sounds": [
+      "villagechatter:ui/close"
+    ]
+  },
+  "ui.hover": {
+    "sounds": [
+      "villagechatter:ui/hover"
+    ]
+  },
+  "ui.open": {
+    "sounds": [
+      "villagechatter:ui/open"
+    ]
+  },
+  "ui.select": {
+    "sounds": [
+      "villagechatter:ui/select"
+    ]
+  },
+  "voice.golem.alert": {
+    "sounds": [
+      "villagechatter:voice/golem/alert/0",
+      "villagechatter:voice/golem/alert/1",
+      "villagechatter:voice/golem/alert/2",
+      "villagechatter:voice/golem/alert/3",
+      "villagechatter:voice/golem/alert/4",
+      "villagechatter:voice/golem/alert/5"
+    ],
+    "subtitle": "subtitles.villagechatter.voice"
+  },
+  "voice.golem.amused": {
+    "sounds": [
+      "villagechatter:voice/golem/amused/0",
+      "villagechatter:voice/golem/amused/1",
+      "villagechatter:voice/golem/amused/2",
+      "villagechatter:voice/golem/amused/3",
+      "villagechatter:voice/golem/amused/4",
+      "villagechatter:voice/golem/amused/5"
+    ],
+    "subtitle": "subtitles.villagechatter.voice"
+  },
+  "voice.golem.curious": {
+    "sounds": [
+      "villagechatter:voice/golem/curious/0",
+      "villagechatter:voice/golem/curious/1",
+      "villagechatter:voice/golem/curious/2",
+      "villagechatter:voice/golem/curious/3",
+      "villagechatter:voice/golem/curious/4",
+      "villagechatter:voice/golem/curious/5"
+    ],
+    "subtitle": "subtitles.villagechatter.voice"
+  },
+  "voice.golem.farewell": {
+    "sounds": [
+      "villagechatter:voice/golem/farewell/0",
+      "villagechatter:voice/golem/farewell/1",
+      "villagechatter:voice/golem/farewell/2",
+      "villagechatter:voice/golem/farewell/3",
+      "villagechatter:voice/golem/farewell/4",
+      "villagechatter:voice/golem/farewell/5"
+    ],
+    "subtitle": "subtitles.villagechatter.voice"
+  },
+  "voice.golem.fine": {
+    "sounds": [
+      "villagechatter:voice/golem/fine/0",
+      "villagechatter:voice/golem/fine/1",
+      "villagechatter:voice/golem/fine/2",
+      "villagechatter:voice/golem/fine/3",
+      "villagechatter:voice/golem/fine/4",
+      "villagechatter:voice/golem/fine/5"
+    ],
+    "subtitle": "subtitles.villagechatter.voice"
+  },
+  "voice.golem.greeting": {
+    "sounds": [
+      "villagechatter:voice/golem/greeting/0",
+      "villagechatter:voice/golem/greeting/1",
+      "villagechatter:voice/golem/greeting/2",
+      "villagechatter:voice/golem/greeting/3",
+      "villagechatter:voice/golem/greeting/4",
+      "villagechatter:voice/golem/greeting/5"
+    ],
+    "subtitle": "subtitles.villagechatter.voice"
+  },
+  "voice.golem.grumpy": {
+    "sounds": [
+      "villagechatter:voice/golem/grumpy/0",
+      "villagechatter:voice/golem/grumpy/1",
+      "villagechatter:voice/golem/grumpy/2",
+      "villagechatter:voice/golem/grumpy/3",
+      "villagechatter:voice/golem/grumpy/4",
+      "villagechatter:voice/golem/grumpy/5"
+    ],
+    "subtitle": "subtitles.villagechatter.voice"
+  },
+  "voice.golem.quiet": {
+    "sounds": [
+      "villagechatter:voice/golem/quiet/0",
+      "villagechatter:voice/golem/quiet/1",
+      "villagechatter:voice/golem/quiet/2",
+      "villagechatter:voice/golem/quiet/3",
+      "villagechatter:voice/golem/quiet/4",
+      "villagechatter:voice/golem/quiet/5"
+    ],
+    "subtitle": "subtitles.villagechatter.voice"
+  },
+  "voice.golem.thanks": {
+    "sounds": [
+      "villagechatter:voice/golem/thanks/0",
+      "villagechatter:voice/golem/thanks/1",
+      "villagechatter:voice/golem/thanks/2",
+      "villagechatter:voice/golem/thanks/3",
+      "villagechatter:voice/golem/thanks/4",
+      "villagechatter:voice/golem/thanks/5"
+    ],
+    "subtitle": "subtitles.villagechatter.voice"
+  },
+  "voice.golem.tired": {
+    "sounds": [
+      "villagechatter:voice/golem/tired/0",
+      "villagechatter:voice/golem/tired/1",
+      "villagechatter:voice/golem/tired/2",
+      "villagechatter:voice/golem/tired/3",
+      "villagechatter:voice/golem/tired/4",
+      "villagechatter:voice/golem/tired/5"
+    ],
+    "subtitle": "subtitles.villagechatter.voice"
+  },
+  "voice.piglin.greeting": {
+    "sounds": [
+      "villagechatter:voice/piglin/greeting/0",
+      "villagechatter:voice/piglin/greeting/1",
+      "villagechatter:voice/piglin/greeting/2",
+      "villagechatter:voice/piglin/greeting/3",
+      "villagechatter:voice/piglin/greeting/4",
+      "villagechatter:voice/piglin/greeting/5"
+    ],
+    "subtitle": "subtitles.villagechatter.voice"
+  },
+  "voice.piglin.curious": {
+    "sounds": [
+      "villagechatter:voice/piglin/curious/0",
+      "villagechatter:voice/piglin/curious/1",
+      "villagechatter:voice/piglin/curious/2",
+      "villagechatter:voice/piglin/curious/3",
+      "villagechatter:voice/piglin/curious/4",
+      "villagechatter:voice/piglin/curious/5"
+    ],
+    "subtitle": "subtitles.villagechatter.voice"
+  },
+  "voice.piglin.admire": {
+    "sounds": [
+      "villagechatter:voice/piglin/admire/0",
+      "villagechatter:voice/piglin/admire/1",
+      "villagechatter:voice/piglin/admire/2",
+      "villagechatter:voice/piglin/admire/3",
+      "villagechatter:voice/piglin/admire/4",
+      "villagechatter:voice/piglin/admire/5"
+    ],
+    "subtitle": "subtitles.villagechatter.voice"
+  },
+  "voice.piglin.happy": {
+    "sounds": [
+      "villagechatter:voice/piglin/happy/0",
+      "villagechatter:voice/piglin/happy/1",
+      "villagechatter:voice/piglin/happy/2",
+      "villagechatter:voice/piglin/happy/3",
+      "villagechatter:voice/piglin/happy/4",
+      "villagechatter:voice/piglin/happy/5"
+    ],
+    "subtitle": "subtitles.villagechatter.voice"
+  },
+  "voice.piglin.grumpy": {
+    "sounds": [
+      "villagechatter:voice/piglin/grumpy/0",
+      "villagechatter:voice/piglin/grumpy/1",
+      "villagechatter:voice/piglin/grumpy/2",
+      "villagechatter:voice/piglin/grumpy/3",
+      "villagechatter:voice/piglin/grumpy/4",
+      "villagechatter:voice/piglin/grumpy/5"
+    ],
+    "subtitle": "subtitles.villagechatter.voice"
+  },
+  "voice.piglin.angry": {
+    "sounds": [
+      "villagechatter:voice/piglin/angry/0",
+      "villagechatter:voice/piglin/angry/1",
+      "villagechatter:voice/piglin/angry/2",
+      "villagechatter:voice/piglin/angry/3",
+      "villagechatter:voice/piglin/angry/4",
+      "villagechatter:voice/piglin/angry/5"
+    ],
+    "subtitle": "subtitles.villagechatter.voice"
+  },
+  "voice.piglin.farewell": {
+    "sounds": [
+      "villagechatter:voice/piglin/farewell/0",
+      "villagechatter:voice/piglin/farewell/1",
+      "villagechatter:voice/piglin/farewell/2",
+      "villagechatter:voice/piglin/farewell/3",
+      "villagechatter:voice/piglin/farewell/4",
+      "villagechatter:voice/piglin/farewell/5"
+    ],
+    "subtitle": "subtitles.villagechatter.voice"
+  },
+  "voice.pillager.greeting": {
+    "sounds": [
+      "villagechatter:voice/pillager/greeting/0",
+      "villagechatter:voice/pillager/greeting/1",
+      "villagechatter:voice/pillager/greeting/2",
+      "villagechatter:voice/pillager/greeting/3",
+      "villagechatter:voice/pillager/greeting/4",
+      "villagechatter:voice/pillager/greeting/5"
+    ],
+    "subtitle": "subtitles.villagechatter.voice"
+  },
+  "voice.pillager.curious": {
+    "sounds": [
+      "villagechatter:voice/pillager/curious/0",
+      "villagechatter:voice/pillager/curious/1",
+      "villagechatter:voice/pillager/curious/2",
+      "villagechatter:voice/pillager/curious/3",
+      "villagechatter:voice/pillager/curious/4",
+      "villagechatter:voice/pillager/curious/5"
+    ],
+    "subtitle": "subtitles.villagechatter.voice"
+  },
+  "voice.pillager.demand": {
+    "sounds": [
+      "villagechatter:voice/pillager/demand/0",
+      "villagechatter:voice/pillager/demand/1",
+      "villagechatter:voice/pillager/demand/2",
+      "villagechatter:voice/pillager/demand/3",
+      "villagechatter:voice/pillager/demand/4",
+      "villagechatter:voice/pillager/demand/5"
+    ],
+    "subtitle": "subtitles.villagechatter.voice"
+  },
+  "voice.pillager.laugh": {
+    "sounds": [
+      "villagechatter:voice/pillager/laugh/0",
+      "villagechatter:voice/pillager/laugh/1",
+      "villagechatter:voice/pillager/laugh/2",
+      "villagechatter:voice/pillager/laugh/3",
+      "villagechatter:voice/pillager/laugh/4",
+      "villagechatter:voice/pillager/laugh/5"
+    ],
+    "subtitle": "subtitles.villagechatter.voice"
+  },
+  "voice.pillager.grumpy": {
+    "sounds": [
+      "villagechatter:voice/pillager/grumpy/0",
+      "villagechatter:voice/pillager/grumpy/1",
+      "villagechatter:voice/pillager/grumpy/2",
+      "villagechatter:voice/pillager/grumpy/3",
+      "villagechatter:voice/pillager/grumpy/4",
+      "villagechatter:voice/pillager/grumpy/5"
+    ],
+    "subtitle": "subtitles.villagechatter.voice"
+  },
+  "voice.pillager.angry": {
+    "sounds": [
+      "villagechatter:voice/pillager/angry/0",
+      "villagechatter:voice/pillager/angry/1",
+      "villagechatter:voice/pillager/angry/2",
+      "villagechatter:voice/pillager/angry/3",
+      "villagechatter:voice/pillager/angry/4",
+      "villagechatter:voice/pillager/angry/5"
+    ],
+    "subtitle": "subtitles.villagechatter.voice"
+  },
+  "voice.pillager.farewell": {
+    "sounds": [
+      "villagechatter:voice/pillager/farewell/0",
+      "villagechatter:voice/pillager/farewell/1",
+      "villagechatter:voice/pillager/farewell/2",
+      "villagechatter:voice/pillager/farewell/3",
+      "villagechatter:voice/pillager/farewell/4",
+      "villagechatter:voice/pillager/farewell/5"
+    ],
+    "subtitle": "subtitles.villagechatter.voice"
+  },
+  "voice.murmur": {
+    "sounds": [
+      "villagechatter:voice/murmur/0",
+      "villagechatter:voice/murmur/1",
+      "villagechatter:voice/murmur/2",
+      "villagechatter:voice/murmur/3",
+      "villagechatter:voice/murmur/4",
+      "villagechatter:voice/murmur/5",
+      "villagechatter:voice/murmur/6",
+      "villagechatter:voice/murmur/7",
+      "villagechatter:voice/murmur/8",
+      "villagechatter:voice/murmur/9"
+    ],
+    "subtitle": "subtitles.villagechatter.voice"
+  }
+}

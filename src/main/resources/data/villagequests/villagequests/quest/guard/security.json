@@ -1,0 +1,25 @@
+{
+  "type": "villagequests:build",
+  "weight": 12,
+  "givers": "guard",
+  "variants": 2,
+  "requirement": {
+    "kind": "placed",
+    "count": {
+      "min": 10,
+      "max": 30
+    }
+  },
+  "deadline_days": 5,
+  "rewards": {
+    "emeralds": {
+      "min": 1,
+      "max": 5
+    },
+    "xp": 14,
+    "goodwill": {
+      "giver": 7.0,
+      "village": 1.5
+    }
+  }
+}

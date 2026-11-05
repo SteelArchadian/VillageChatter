@@ -1,0 +1,30 @@
+{
+  "type": "villagequests:courier",
+  "weight": 8,
+  "givers": "adult",
+  "professions": [
+    "minecraft:cleric"
+  ],
+  "package": {
+    "item": "minecraft:glistering_melon_slice",
+    "count": {
+      "min": 3,
+      "max": 5
+    }
+  },
+  "recipients": [
+    "minecraft:cleric"
+  ],
+  "deadline_days": 3,
+  "rewards": {
+    "emeralds": {
+      "min": 3,
+      "max": 6
+    },
+    "xp": 12,
+    "goodwill": {
+      "giver": 2.5,
+      "village": 0.8
+    }
+  }
+}

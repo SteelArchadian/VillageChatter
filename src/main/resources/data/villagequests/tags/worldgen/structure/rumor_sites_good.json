@@ -1,0 +1,13 @@
+{
+  "values": [
+    "minecraft:jungle_pyramid",
+    "minecraft:desert_pyramid",
+    "minecraft:monument",
+    "minecraft:ocean_ruin_warm",
+    "minecraft:ocean_ruin_cold",
+    {
+      "id": "minecraft:trial_chambers",
+      "required": false
+    }
+  ]
+}

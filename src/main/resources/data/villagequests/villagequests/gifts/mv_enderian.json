@@ -1,0 +1,20 @@
+{
+  "professions": [
+    "morevillagers:enderian"
+  ],
+  "love": [
+    "minecraft:ender_eye",
+    "minecraft:shulker_shell",
+    "minecraft:dragon_breath",
+    "minecraft:chorus_flower"
+  ],
+  "like": [
+    "minecraft:ender_pearl",
+    "minecraft:chorus_fruit",
+    "minecraft:end_stone",
+    "minecraft:purpur_block"
+  ],
+  "meh": [
+    "minecraft:obsidian"
+  ]
+}

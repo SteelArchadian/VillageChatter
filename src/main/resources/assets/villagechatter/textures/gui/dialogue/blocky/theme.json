@@ -1,0 +1,73 @@
+{
+  "scale": 1,
+  "parts": {
+    "box_fill": {
+      "w": 16,
+      "h": 16,
+      "bx": 4,
+      "by": 4
+    },
+    "box_frame": {
+      "w": 16,
+      "h": 16,
+      "bx": 4,
+      "by": 4
+    },
+    "tab_fill": {
+      "w": 16,
+      "h": 12,
+      "bx": 4,
+      "by": 4
+    },
+    "tab_frame": {
+      "w": 16,
+      "h": 12,
+      "bx": 4,
+      "by": 4
+    },
+    "opt_fill": {
+      "w": 16,
+      "h": 14,
+      "bx": 4,
+      "by": 4
+    },
+    "opt_frame": {
+      "w": 16,
+      "h": 14,
+      "bx": 4,
+      "by": 4
+    },
+    "sel_fill": {
+      "w": 16,
+      "h": 14,
+      "bx": 4,
+      "by": 4
+    },
+    "sel_frame": {
+      "w": 16,
+      "h": 14,
+      "bx": 4,
+      "by": 4
+    },
+    "cursor": {
+      "w": 5,
+      "h": 7,
+      "bx": 0,
+      "by": 0
+    }
+  },
+  "font": "minecraft:default",
+  "text": "#FFFFFF",
+  "name": "#FFFFFF",
+  "option": "#E6E6E0",
+  "selected": "#FFFFFF",
+  "narration": "#D8D8C8",
+  "shadow": true,
+  "alpha": {
+    "box": 1.0,
+    "opt": 0.95,
+    "sel": 1.1,
+    "frame": 1.0
+  },
+  "tabIcon": "minecraft:grass_block"
+}

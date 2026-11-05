@@ -1,0 +1,23 @@
+{
+  "professions": [
+    "morevillagers:miner"
+  ],
+  "love": [
+    "minecraft:diamond_pickaxe",
+    "minecraft:diamond",
+    "minecraft:amethyst_cluster",
+    "minecraft:raw_gold_block"
+  ],
+  "like": [
+    "minecraft:raw_iron",
+    "minecraft:raw_copper",
+    "minecraft:raw_gold",
+    "minecraft:torch",
+    "minecraft:lantern",
+    "minecraft:coal"
+  ],
+  "meh": [
+    "minecraft:cobblestone",
+    "minecraft:cobbled_deepslate"
+  ]
+}

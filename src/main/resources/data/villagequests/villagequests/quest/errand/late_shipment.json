@@ -1,0 +1,26 @@
+{
+  "type": "villagequests:errand",
+  "weight": 10,
+  "givers": "adult",
+  "professions": [
+    "minecraft:armorer",
+    "minecraft:weaponsmith",
+    "minecraft:toolsmith"
+  ],
+  "request": {
+    "item": "minecraft:iron_ingot",
+    "count": {
+      "min": 8,
+      "max": 14
+    }
+  },
+  "deadline_days": 3,
+  "rewards": {
+    "emeralds_per_item": 0.3,
+    "xp_per_item": 1.0,
+    "goodwill": {
+      "giver": 1.5,
+      "village": 0.3
+    }
+  }
+}

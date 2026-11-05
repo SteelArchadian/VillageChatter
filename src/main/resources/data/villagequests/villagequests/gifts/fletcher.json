@@ -1,0 +1,22 @@
+{
+  "professions": [
+    "minecraft:fletcher"
+  ],
+  "love": [
+    "minecraft:crossbow",
+    "minecraft:spectral_arrow",
+    "minecraft:bow",
+    "minecraft:phantom_membrane"
+  ],
+  "like": [
+    "minecraft:feather",
+    "minecraft:string",
+    "minecraft:flint",
+    "minecraft:arrow",
+    "minecraft:target"
+  ],
+  "meh": [
+    "minecraft:stick",
+    "minecraft:gravel"
+  ]
+}

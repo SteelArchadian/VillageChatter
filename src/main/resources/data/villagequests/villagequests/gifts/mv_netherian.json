@@ -1,0 +1,23 @@
+{
+  "professions": [
+    "morevillagers:netherian"
+  ],
+  "love": [
+    "minecraft:ancient_debris",
+    "minecraft:blaze_rod",
+    "minecraft:ghast_tear",
+    "minecraft:netherite_scrap"
+  ],
+  "like": [
+    "minecraft:nether_wart",
+    "minecraft:magma_cream",
+    "minecraft:quartz",
+    "minecraft:gold_nugget",
+    "minecraft:crimson_fungus",
+    "minecraft:warped_fungus"
+  ],
+  "meh": [
+    "minecraft:netherrack",
+    "minecraft:soul_sand"
+  ]
+}

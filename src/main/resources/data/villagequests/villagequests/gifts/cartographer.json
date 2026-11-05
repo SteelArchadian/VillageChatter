@@ -1,0 +1,22 @@
+{
+  "professions": [
+    "minecraft:cartographer"
+  ],
+  "love": [
+    "minecraft:compass",
+    "minecraft:spyglass",
+    "minecraft:recovery_compass",
+    "minecraft:lodestone"
+  ],
+  "like": [
+    "minecraft:paper",
+    "minecraft:map",
+    "#minecraft:banners",
+    "minecraft:glass_pane",
+    "minecraft:filled_map"
+  ],
+  "meh": [
+    "minecraft:sugar_cane",
+    "minecraft:stick"
+  ]
+}

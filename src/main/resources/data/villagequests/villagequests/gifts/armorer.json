@@ -1,0 +1,24 @@
+{
+  "professions": [
+    "minecraft:armorer"
+  ],
+  "love": [
+    "minecraft:anvil",
+    "minecraft:diamond",
+    "minecraft:netherite_scrap",
+    "minecraft:blast_furnace"
+  ],
+  "like": [
+    "minecraft:iron_block",
+    "minecraft:lava_bucket",
+    "minecraft:chainmail_chestplate",
+    "minecraft:chainmail_helmet",
+    "minecraft:iron_ingot"
+  ],
+  "meh": [
+    "#minecraft:coals",
+    "#c:ingots",
+    "minecraft:cobblestone",
+    "minecraft:stone"
+  ]
+}

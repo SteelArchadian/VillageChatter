@@ -1,0 +1,22 @@
+{
+  "type": "villagequests:errand",
+  "weight": 10,
+  "givers": "baby",
+  "request": {
+    "tag": "#minecraft:small_flowers",
+    "display": "villagequests.request.flowers",
+    "count": {
+      "min": 5,
+      "max": 8
+    }
+  },
+  "deadline_days": 2,
+  "rewards": {
+    "emeralds_per_item": 0.15,
+    "xp_per_item": 0.5,
+    "goodwill": {
+      "giver": 1.0,
+      "village": 0.2
+    }
+  }
+}

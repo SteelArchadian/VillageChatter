@@ -1,0 +1,28 @@
+{
+  "type": "villagequests:heirloom",
+  "weight": 6,
+  "professions": ["minecraft:fletcher", "minecraft:farmer", "minecraft:fisherman"],
+  "item": {
+    "id": "minecraft:crossbow",
+    "components": {
+      "minecraft:enchantments": { "levels": { "minecraft:quick_charge": 2, "minecraft:piercing": 2 } }
+    }
+  },
+  "guardian": {
+    "entity": "minecraft:pillager",
+    "equipment": { "chest": "minecraft:leather_chestplate" },
+    "effects": [],
+    "health_multiplier": 2.5
+  },
+  "location": {
+    "kinds": ["surface", "cave"],
+    "min_distance": 80,
+    "max_distance": 256
+  },
+  "deadline_days": 4,
+  "rewards": {
+    "emeralds": { "min": 6, "max": 10 },
+    "loot_table": "villagequests:rewards/heirloom_common",
+    "reputation": { "returned": 10, "lied": -5, "expired": -15 }
+  }
+}

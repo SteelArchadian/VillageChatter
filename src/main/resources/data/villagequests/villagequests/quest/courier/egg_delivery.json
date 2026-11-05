@@ -1,0 +1,31 @@
+{
+  "type": "villagequests:courier",
+  "weight": 8,
+  "givers": "adult",
+  "professions": [
+    "minecraft:farmer"
+  ],
+  "package": {
+    "item": "minecraft:egg",
+    "count": {
+      "min": 8,
+      "max": 16
+    }
+  },
+  "recipients": [
+    "minecraft:farmer",
+    "minecraft:butcher"
+  ],
+  "deadline_days": 4,
+  "rewards": {
+    "emeralds": {
+      "min": 2,
+      "max": 4
+    },
+    "xp": 8,
+    "goodwill": {
+      "giver": 2.0,
+      "village": 0.6
+    }
+  }
+}

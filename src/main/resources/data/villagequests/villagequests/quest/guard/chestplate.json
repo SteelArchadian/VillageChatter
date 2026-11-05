@@ -1,0 +1,22 @@
+{
+  "type": "villagequests:errand",
+  "weight": 8,
+  "givers": "guard",
+  "request": {
+    "tag": "#minecraft:chest_armor",
+    "display": "villagequests.request.chestplate",
+    "count": 1
+  },
+  "deadline_days": 3,
+  "rewards": {
+    "emeralds": {
+      "min": 3,
+      "max": 6
+    },
+    "xp": 8,
+    "goodwill": {
+      "giver": 8.0,
+      "village": 0.5
+    }
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "type": "villagequests:errand",
+  "weight": 10,
+  "givers": "adult",
+  "professions": [
+    "minecraft:nitwit"
+  ],
+  "request": {
+    "item": "minecraft:cake",
+    "count": 1
+  },
+  "deadline_days": 2,
+  "rewards": {
+    "emeralds_per_item": 3.0,
+    "xp_per_item": 4.0,
+    "goodwill": {
+      "giver": 1.0,
+      "village": 0.1
+    }
+  },
+  "variants": 2
+}

@@ -1,0 +1,28 @@
+{
+  "professions": [
+    "minecraft:none"
+  ],
+  "love": [
+    "minecraft:composter",
+    "minecraft:lectern",
+    "minecraft:barrel",
+    "minecraft:smoker",
+    "minecraft:blast_furnace",
+    "minecraft:brewing_stand",
+    "minecraft:cartography_table",
+    "minecraft:fletching_table",
+    "minecraft:grindstone",
+    "minecraft:loom",
+    "minecraft:smithing_table",
+    "minecraft:stonecutter",
+    "minecraft:cauldron"
+  ],
+  "like": [
+    "minecraft:bread",
+    "minecraft:baked_potato",
+    "minecraft:cooked_cod"
+  ],
+  "meh": [
+    "minecraft:emerald"
+  ]
+}

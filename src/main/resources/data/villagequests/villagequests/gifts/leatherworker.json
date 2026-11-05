@@ -1,0 +1,21 @@
+{
+  "professions": [
+    "minecraft:leatherworker"
+  ],
+  "love": [
+    "minecraft:saddle",
+    "minecraft:armadillo_scute",
+    "minecraft:rabbit_foot"
+  ],
+  "like": [
+    "minecraft:leather",
+    "minecraft:rabbit_hide",
+    "#c:dyes",
+    "minecraft:cauldron",
+    "minecraft:turtle_scute"
+  ],
+  "meh": [
+    "minecraft:string",
+    "minecraft:rotten_flesh"
+  ]
+}

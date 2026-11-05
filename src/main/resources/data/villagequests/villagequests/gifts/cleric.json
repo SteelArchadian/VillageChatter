@@ -1,0 +1,23 @@
+{
+  "professions": [
+    "minecraft:cleric"
+  ],
+  "love": [
+    "minecraft:nether_wart",
+    "minecraft:golden_apple",
+    "minecraft:ender_pearl",
+    "minecraft:glowstone"
+  ],
+  "like": [
+    "minecraft:redstone",
+    "minecraft:lapis_lazuli",
+    "minecraft:glass_bottle",
+    "#minecraft:candles",
+    "minecraft:rotten_flesh",
+    "minecraft:brewing_stand"
+  ],
+  "meh": [
+    "minecraft:glowstone_dust",
+    "minecraft:sugar"
+  ]
+}

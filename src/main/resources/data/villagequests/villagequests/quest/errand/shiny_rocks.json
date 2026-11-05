@@ -1,0 +1,21 @@
+{
+  "type": "villagequests:errand",
+  "weight": 6,
+  "givers": "baby",
+  "request": {
+    "item": "minecraft:amethyst_shard",
+    "count": {
+      "min": 3,
+      "max": 5
+    }
+  },
+  "deadline_days": 3,
+  "rewards": {
+    "emeralds_per_item": 0.5,
+    "xp_per_item": 1.5,
+    "goodwill": {
+      "giver": 1.0,
+      "village": 0.2
+    }
+  }
+}

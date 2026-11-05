@@ -1,0 +1,19 @@
+{
+  "professions": [
+    "minecraft:nitwit"
+  ],
+  "love": [
+    "minecraft:cake",
+    "minecraft:slime_ball",
+    "minecraft:poisonous_potato",
+    "minecraft:pufferfish"
+  ],
+  "like": [
+    "minecraft:rotten_flesh",
+    "minecraft:dead_bush",
+    "minecraft:stick",
+    "minecraft:flower_pot",
+    "minecraft:pumpkin"
+  ],
+  "accept_anything": true
+}

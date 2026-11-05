@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:gift",
+  "pools": [
+    {
+      "rolls": 1,
+      "entries": [
+        { "type": "minecraft:item", "name": "minecraft:bread", "weight": 4, "functions": [{ "function": "minecraft:set_count", "count": { "min": 3, "max": 6 } }] },
+        { "type": "minecraft:item", "name": "minecraft:golden_carrot", "weight": 3, "functions": [{ "function": "minecraft:set_count", "count": { "min": 2, "max": 5 } }] },
+        { "type": "minecraft:item", "name": "minecraft:experience_bottle", "weight": 2, "functions": [{ "function": "minecraft:set_count", "count": { "min": 2, "max": 4 } }] },
+        { "type": "minecraft:item", "name": "minecraft:book", "weight": 1, "functions": [{ "function": "minecraft:enchant_randomly" }] }
+      ]
+    }
+  ]
+}

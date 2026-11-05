@@ -1,0 +1,28 @@
+{
+  "type": "villagequests:errand",
+  "weight": 8,
+  "givers": "adult",
+  "professions": [
+    "minecraft:armorer",
+    "minecraft:weaponsmith",
+    "minecraft:toolsmith",
+    "minecraft:butcher"
+  ],
+  "request": {
+    "tag": "#minecraft:coals",
+    "display": "villagequests.request.coal",
+    "count": {
+      "min": 16,
+      "max": 24
+    }
+  },
+  "deadline_days": 2,
+  "rewards": {
+    "emeralds_per_item": 0.1,
+    "xp_per_item": 0.3,
+    "goodwill": {
+      "giver": 1.0,
+      "village": 0.25
+    }
+  }
+}

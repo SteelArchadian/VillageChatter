@@ -1,0 +1,22 @@
+{
+  "professions": [
+    "morevillagers:hunter"
+  ],
+  "love": [
+    "minecraft:bow",
+    "minecraft:crossbow",
+    "minecraft:rabbit_foot",
+    "minecraft:goat_horn"
+  ],
+  "like": [
+    "minecraft:leather",
+    "minecraft:rabbit_hide",
+    "minecraft:arrow",
+    "minecraft:cooked_beef",
+    "minecraft:bone"
+  ],
+  "meh": [
+    "minecraft:string",
+    "minecraft:feather"
+  ]
+}

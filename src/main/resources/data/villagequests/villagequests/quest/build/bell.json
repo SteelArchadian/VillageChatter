@@ -1,0 +1,22 @@
+{
+  "type": "villagequests:build",
+  "weight": 8,
+  "requirement": {
+    "kind": "poi",
+    "poi": "minecraft:meeting",
+    "min": 1,
+    "radius": 48
+  },
+  "deadline_days": 7,
+  "rewards": {
+    "emeralds": {
+      "min": 6,
+      "max": 10
+    },
+    "xp": 15,
+    "goodwill": {
+      "giver": 2.0,
+      "village": 1.0
+    }
+  }
+}

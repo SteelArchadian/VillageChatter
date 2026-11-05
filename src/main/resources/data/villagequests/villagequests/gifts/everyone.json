@@ -1,0 +1,23 @@
+{
+  "professions": [],
+  "love": [
+    "minecraft:cake",
+    "minecraft:golden_apple"
+  ],
+  "like": [
+    "minecraft:cookie",
+    "minecraft:pumpkin_pie",
+    "minecraft:honey_bottle",
+    "minecraft:glow_berries",
+    "#minecraft:small_flowers"
+  ],
+  "meh": [
+    "#c:foods",
+    "minecraft:bread",
+    "minecraft:apple",
+    "minecraft:emerald",
+    "#minecraft:flowers",
+    "minecraft:candle",
+    "minecraft:torch"
+  ]
+}

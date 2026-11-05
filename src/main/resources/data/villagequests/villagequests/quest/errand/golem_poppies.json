@@ -1,0 +1,23 @@
+{
+  "type": "villagequests:errand",
+  "weight": 12,
+  "givers": "baby",
+  "request": {
+    "item": "minecraft:poppy",
+    "count": {
+      "min": 10,
+      "max": 16
+    }
+  },
+  "deadline_days": 2,
+  "rewards": {
+    "emeralds_per_item": 0.12,
+    "xp_per_item": 0.5,
+    "goodwill": {
+      "giver": 1.0,
+      "village": 0.3
+    }
+  },
+  "celebrate_golems": true,
+  "variants": 3
+}

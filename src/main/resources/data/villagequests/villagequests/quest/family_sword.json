@@ -1,0 +1,54 @@
+{
+  "type": "villagequests:heirloom",
+  "weight": 4,
+  "professions": [],
+  "item": {
+    "id": "minecraft:iron_sword",
+    "components": {
+      "minecraft:enchantments": {
+        "levels": {
+          "minecraft:sharpness": 2,
+          "minecraft:unbreaking": 2
+        }
+      }
+    }
+  },
+  "guardian": {
+    "entity": "minecraft:zombie",
+    "equipment": {
+      "head": "minecraft:chainmail_helmet",
+      "chest": "minecraft:chainmail_chestplate"
+    },
+    "effects": [
+      {
+        "id": "minecraft:strength",
+        "amplifier": 0
+      }
+    ],
+    "health_multiplier": 2.0
+  },
+  "location": {
+    "kinds": [
+      "cave",
+      "structure",
+      "surface"
+    ],
+    "structures": "#villagequests:heirloom_sites",
+    "min_distance": 64,
+    "max_distance": 256
+  },
+  "deadline_days": 5,
+  "rewards": {
+    "emeralds": {
+      "min": 6,
+      "max": 12
+    },
+    "loot_table": "villagequests:rewards/heirloom_common",
+    "reputation": {
+      "returned": 10,
+      "lied": -5,
+      "expired": -15
+    }
+  },
+  "variants": 2
+}

@@ -1,0 +1,30 @@
+{
+  "type": "villagequests:courier",
+  "weight": 6,
+  "givers": "adult",
+  "professions": [
+    "minecraft:cartographer"
+  ],
+  "package": {
+    "item": "minecraft:map",
+    "count": {
+      "min": 1,
+      "max": 2
+    }
+  },
+  "recipients": [
+    "minecraft:cartographer"
+  ],
+  "deadline_days": 5,
+  "rewards": {
+    "emeralds": {
+      "min": 4,
+      "max": 7
+    },
+    "xp": 14,
+    "goodwill": {
+      "giver": 2.5,
+      "village": 0.8
+    }
+  }
+}

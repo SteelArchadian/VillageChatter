@@ -1,0 +1,24 @@
+{
+  "professions": [
+    "minecraft:librarian"
+  ],
+  "love": [
+    "minecraft:enchanted_book",
+    "minecraft:writable_book",
+    "minecraft:chiseled_bookshelf",
+    "minecraft:lantern"
+  ],
+  "like": [
+    "minecraft:book",
+    "minecraft:paper",
+    "minecraft:ink_sac",
+    "minecraft:glow_ink_sac",
+    "#minecraft:candles",
+    "minecraft:bookshelf",
+    "minecraft:feather"
+  ],
+  "meh": [
+    "minecraft:sugar_cane",
+    "minecraft:leather"
+  ]
+}

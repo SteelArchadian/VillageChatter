@@ -1,0 +1,29 @@
+{
+  "type": "villagequests:heirloom",
+  "weight": 6,
+  "professions": ["minecraft:toolsmith", "minecraft:mason", "minecraft:cartographer"],
+  "item": {
+    "id": "minecraft:iron_pickaxe",
+    "components": {
+      "minecraft:enchantments": { "levels": { "minecraft:efficiency": 3, "minecraft:fortune": 1 } }
+    }
+  },
+  "guardian": {
+    "entity": "minecraft:zombie",
+    "equipment": { "head": "minecraft:iron_helmet", "feet": "minecraft:leather_boots" },
+    "effects": [{ "id": "minecraft:speed", "amplifier": 0 }],
+    "health_multiplier": 1.8
+  },
+  "location": {
+    "kinds": ["structure", "cave", "surface"],
+    "structures": "#villagequests:mine_sites",
+    "min_distance": 64,
+    "max_distance": 320
+  },
+  "deadline_days": 6,
+  "rewards": {
+    "emeralds": { "min": 8, "max": 14 },
+    "loot_table": "villagequests:rewards/heirloom_common",
+    "reputation": { "returned": 10, "lied": -5, "expired": -15 }
+  }
+}

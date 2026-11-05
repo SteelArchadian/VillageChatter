@@ -1,0 +1,21 @@
+{
+  "type": "villagequests:errand",
+  "weight": 10,
+  "givers": "guard",
+  "request": {
+    "item": "minecraft:shield",
+    "count": 1
+  },
+  "deadline_days": 3,
+  "rewards": {
+    "emeralds": {
+      "min": 3,
+      "max": 5
+    },
+    "xp": 8,
+    "goodwill": {
+      "giver": 8.0,
+      "village": 0.5
+    }
+  }
+}

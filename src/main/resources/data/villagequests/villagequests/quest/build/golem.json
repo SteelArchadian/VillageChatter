@@ -1,0 +1,24 @@
+{
+  "type": "villagequests:build",
+  "weight": 12,
+  "requirement": {
+    "kind": "golem",
+    "radius": 48
+  },
+  "deadline_days": 7,
+  "rewards": {
+    "emeralds": {
+      "min": 10,
+      "max": 16
+    },
+    "xp": 30,
+    "goodwill": {
+      "giver": 3.0,
+      "village": 1.5
+    },
+    "reputation": {
+      "returned": 5
+    }
+  },
+  "variants": 2
+}

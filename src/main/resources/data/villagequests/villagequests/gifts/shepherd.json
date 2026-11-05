@@ -1,0 +1,22 @@
+{
+  "professions": [
+    "minecraft:shepherd"
+  ],
+  "love": [
+    "minecraft:pink_wool",
+    "minecraft:shears",
+    "minecraft:golden_carrot",
+    "minecraft:loom"
+  ],
+  "like": [
+    "#minecraft:wool",
+    "#c:dyes",
+    "minecraft:lead",
+    "minecraft:wheat",
+    "#minecraft:wool_carpets"
+  ],
+  "meh": [
+    "minecraft:string",
+    "minecraft:hay_block"
+  ]
+}

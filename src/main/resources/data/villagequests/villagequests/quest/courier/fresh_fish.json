@@ -1,0 +1,31 @@
+{
+  "type": "villagequests:courier",
+  "weight": 8,
+  "givers": "adult",
+  "professions": [
+    "minecraft:fisherman"
+  ],
+  "package": {
+    "item": "minecraft:cod",
+    "count": {
+      "min": 6,
+      "max": 10
+    }
+  },
+  "recipients": [
+    "minecraft:butcher",
+    "minecraft:farmer"
+  ],
+  "deadline_days": 1.5,
+  "rewards": {
+    "emeralds": {
+      "min": 3,
+      "max": 5
+    },
+    "xp": 10,
+    "goodwill": {
+      "giver": 2.0,
+      "village": 0.6
+    }
+  }
+}

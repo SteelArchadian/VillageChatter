@@ -1,0 +1,18 @@
+{
+  "values": [
+    "minecraft:ruined_portal",
+    "minecraft:shipwreck",
+    "minecraft:igloo",
+    "minecraft:swamp_hut",
+    "minecraft:pillager_outpost",
+    {
+      "id": "minecraft:trail_ruins",
+      "required": false
+    },
+    "minecraft:village_plains",
+    "minecraft:village_desert",
+    "minecraft:village_savanna",
+    "minecraft:village_snowy",
+    "minecraft:village_taiga"
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "scale": 4,
+  "parts": {
+    "box_fill": {
+      "w": 64,
+      "h": 64,
+      "bx": 16,
+      "by": 16,
+      "tile": true
+    },
+    "box_frame": {
+      "w": 64,
+      "h": 64,
+      "bx": 16,
+      "by": 16
+    },
+    "tab_fill": {
+      "w": 96,
+      "h": 48,
+      "bx": 16,
+      "by": 16
+    },
+    "tab_frame": {
+      "w": 96,
+      "h": 48,
+      "bx": 16,
+      "by": 16
+    },
+    "sel_fill": {
+      "w": 64,
+      "h": 56,
+      "bx": 16,
+      "by": 16
+    },
+    "sel_frame": {
+      "w": 64,
+      "h": 56,
+      "bx": 16,
+      "by": 16
+    },
+    "cursor": {
+      "w": 28,
+      "h": 36,
+      "bx": 0,
+      "by": 0
+    }
+  },
+  "font": "minecraft:default",
+  "text": "#5CFF86",
+  "name": "#9CFFB4",
+  "option": "#46D86C",
+  "selected": "#9CFFB4",
+  "narration": "#3FBF64",
+  "shadow": false,
+  "alpha": {
+    "box": 1.0,
+    "opt": 0.9,
+    "sel": 0.95,
+    "frame": 1.0
+  },
+  "inline": true,
+  "divider": "#46FF7A",
+  "tabIcon": "minecraft:emerald"
+}

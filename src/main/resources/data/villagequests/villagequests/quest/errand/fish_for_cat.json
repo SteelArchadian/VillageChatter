@@ -1,0 +1,22 @@
+{
+  "type": "villagequests:errand",
+  "weight": 8,
+  "givers": "baby",
+  "request": {
+    "tag": "#minecraft:fishes",
+    "display": "villagequests.request.fish",
+    "count": {
+      "min": 2,
+      "max": 3
+    }
+  },
+  "deadline_days": 2,
+  "rewards": {
+    "emeralds_per_item": 0.4,
+    "xp_per_item": 1.0,
+    "goodwill": {
+      "giver": 1.0,
+      "village": 0.2
+    }
+  }
+}

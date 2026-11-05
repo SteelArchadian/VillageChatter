@@ -1,0 +1,81 @@
+{
+  "scale": 4,
+  "parts": {
+    "box_fill": {
+      "w": 128,
+      "h": 128,
+      "bx": 48,
+      "by": 48,
+      "tile": true
+    },
+    "box_frame": {
+      "w": 128,
+      "h": 128,
+      "bx": 48,
+      "by": 48
+    },
+    "tab_fill": {
+      "w": 128,
+      "h": 48,
+      "bx": 32,
+      "by": 16
+    },
+    "tab_frame": {
+      "w": 128,
+      "h": 48,
+      "bx": 32,
+      "by": 16
+    },
+    "opt_fill": {
+      "w": 96,
+      "h": 56,
+      "bx": 16,
+      "by": 16
+    },
+    "opt_frame": {
+      "w": 96,
+      "h": 56,
+      "bx": 16,
+      "by": 16
+    },
+    "sel_fill": {
+      "w": 96,
+      "h": 56,
+      "bx": 16,
+      "by": 16
+    },
+    "sel_frame": {
+      "w": 96,
+      "h": 56,
+      "bx": 16,
+      "by": 16
+    },
+    "emblem": {
+      "w": 36,
+      "h": 36,
+      "bx": 0,
+      "by": 0
+    },
+    "cursor": {
+      "w": 36,
+      "h": 36,
+      "bx": 0,
+      "by": 0
+    }
+  },
+  "font": "villagechatter:dialogue",
+  "text": "#3A2414",
+  "name": "#F6E7C4",
+  "option": "#4A3018",
+  "selected": "#2A1408",
+  "narration": "#5A4630",
+  "shadow": false,
+  "italic": true,
+  "alpha": {
+    "box": 0.95,
+    "opt": 0.9,
+    "sel": 1.0,
+    "frame": 1.0
+  },
+  "minAlpha": 0.7
+}

@@ -1,0 +1,21 @@
+{
+  "professions": [
+    "morevillagers:florist"
+  ],
+  "love": [
+    "minecraft:torchflower",
+    "minecraft:pitcher_plant",
+    "minecraft:spore_blossom",
+    "minecraft:wither_rose"
+  ],
+  "like": [
+    "#minecraft:flowers",
+    "minecraft:bone_meal",
+    "minecraft:flower_pot",
+    "minecraft:moss_block"
+  ],
+  "meh": [
+    "minecraft:dirt",
+    "#minecraft:saplings"
+  ]
+}

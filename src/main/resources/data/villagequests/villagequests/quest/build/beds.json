@@ -1,0 +1,23 @@
+{
+  "type": "villagequests:build",
+  "weight": 10,
+  "requirement": {
+    "kind": "poi",
+    "poi": "minecraft:home",
+    "when": "homeless",
+    "add": 2,
+    "radius": 48
+  },
+  "deadline_days": 7,
+  "rewards": {
+    "emeralds": {
+      "min": 5,
+      "max": 9
+    },
+    "xp": 15,
+    "goodwill": {
+      "giver": 2.0,
+      "village": 0.75
+    }
+  }
+}

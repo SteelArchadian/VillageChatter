@@ -1,0 +1,22 @@
+{
+  "type": "villagequests:build",
+  "weight": 8,
+  "requirement": {
+    "kind": "blocks",
+    "tag": "villagequests:village_lights",
+    "min": 12,
+    "radius": 20
+  },
+  "deadline_days": 7,
+  "rewards": {
+    "emeralds": {
+      "min": 4,
+      "max": 8
+    },
+    "xp": 12,
+    "goodwill": {
+      "giver": 1.5,
+      "village": 0.75
+    }
+  }
+}

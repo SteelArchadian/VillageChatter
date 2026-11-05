@@ -1,0 +1,24 @@
+{
+  "type": "villagequests:errand",
+  "weight": 8,
+  "givers": "adult",
+  "professions": [
+    "minecraft:farmer"
+  ],
+  "request": {
+    "item": "minecraft:bone_meal",
+    "count": {
+      "min": 16,
+      "max": 32
+    }
+  },
+  "deadline_days": 2,
+  "rewards": {
+    "emeralds_per_item": 0.08,
+    "xp_per_item": 0.3,
+    "goodwill": {
+      "giver": 1.0,
+      "village": 0.25
+    }
+  }
+}

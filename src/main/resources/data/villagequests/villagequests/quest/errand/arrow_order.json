@@ -1,0 +1,24 @@
+{
+  "type": "villagequests:errand",
+  "weight": 8,
+  "givers": "adult",
+  "professions": [
+    "minecraft:fletcher"
+  ],
+  "request": {
+    "item": "minecraft:feather",
+    "count": {
+      "min": 12,
+      "max": 20
+    }
+  },
+  "deadline_days": 2,
+  "rewards": {
+    "emeralds_per_item": 0.08,
+    "xp_per_item": 0.3,
+    "goodwill": {
+      "giver": 1.0,
+      "village": 0.25
+    }
+  }
+}

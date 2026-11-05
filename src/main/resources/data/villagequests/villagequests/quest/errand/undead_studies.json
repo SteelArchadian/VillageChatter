@@ -1,0 +1,25 @@
+{
+  "type": "villagequests:errand",
+  "weight": 8,
+  "givers": "adult",
+  "professions": [
+    "minecraft:cleric"
+  ],
+  "request": {
+    "item": "minecraft:rotten_flesh",
+    "count": {
+      "min": 12,
+      "max": 20
+    }
+  },
+  "deadline_days": 3,
+  "rewards": {
+    "emeralds_per_item": 0.08,
+    "xp_per_item": 0.5,
+    "goodwill": {
+      "giver": 1.0,
+      "village": 0.25
+    }
+  },
+  "variants": 2
+}

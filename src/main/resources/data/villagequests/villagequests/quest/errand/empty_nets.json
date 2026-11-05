@@ -1,0 +1,24 @@
+{
+  "type": "villagequests:errand",
+  "weight": 10,
+  "givers": "adult",
+  "professions": [
+    "minecraft:fisherman"
+  ],
+  "request": {
+    "item": "minecraft:salmon",
+    "count": {
+      "min": 3,
+      "max": 6
+    }
+  },
+  "deadline_days": 2,
+  "rewards": {
+    "emeralds_per_item": 0.5,
+    "xp_per_item": 1.5,
+    "goodwill": {
+      "giver": 1.0,
+      "village": 0.25
+    }
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "type": "villagequests:errand",
+  "weight": 12,
+  "givers": "guard",
+  "request": {
+    "tag": "#minecraft:swords",
+    "display": "villagequests.request.sword",
+    "count": 1
+  },
+  "deadline_days": 3,
+  "rewards": {
+    "emeralds": {
+      "min": 3,
+      "max": 6
+    },
+    "xp": 10,
+    "goodwill": {
+      "giver": 9.0,
+      "village": 0.5
+    }
+  },
+  "variants": 2
+}

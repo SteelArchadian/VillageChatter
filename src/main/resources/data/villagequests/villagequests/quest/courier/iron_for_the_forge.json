@@ -1,0 +1,34 @@
+{
+  "type": "villagequests:courier",
+  "weight": 8,
+  "givers": "adult",
+  "professions": [
+    "minecraft:toolsmith",
+    "minecraft:weaponsmith",
+    "minecraft:armorer"
+  ],
+  "package": {
+    "item": "minecraft:iron_ingot",
+    "count": {
+      "min": 3,
+      "max": 6
+    }
+  },
+  "recipients": [
+    "minecraft:toolsmith",
+    "minecraft:weaponsmith",
+    "minecraft:armorer"
+  ],
+  "deadline_days": 4,
+  "rewards": {
+    "emeralds": {
+      "min": 3,
+      "max": 6
+    },
+    "xp": 10,
+    "goodwill": {
+      "giver": 2.0,
+      "village": 0.6
+    }
+  }
+}

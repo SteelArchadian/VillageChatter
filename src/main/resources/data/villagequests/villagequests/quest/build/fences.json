@@ -1,0 +1,22 @@
+{
+  "type": "villagequests:build",
+  "weight": 6,
+  "requirement": {
+    "kind": "blocks",
+    "tag": "villagequests:village_fences",
+    "min": 40,
+    "radius": 24
+  },
+  "deadline_days": 7,
+  "rewards": {
+    "emeralds": {
+      "min": 6,
+      "max": 10
+    },
+    "xp": 15,
+    "goodwill": {
+      "giver": 1.5,
+      "village": 0.75
+    }
+  }
+}

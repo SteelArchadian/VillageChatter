@@ -1,0 +1,26 @@
+{
+  "professions": [
+    "minecraft:mason"
+  ],
+  "love": [
+    "minecraft:decorated_pot",
+    "minecraft:amethyst_block",
+    "minecraft:quartz_block",
+    "minecraft:stonecutter"
+  ],
+  "like": [
+    "minecraft:stone_bricks",
+    "#minecraft:terracotta",
+    "minecraft:clay_ball",
+    "minecraft:quartz",
+    "minecraft:polished_andesite",
+    "minecraft:brick"
+  ],
+  "meh": [
+    "minecraft:stone",
+    "minecraft:cobblestone",
+    "minecraft:andesite",
+    "minecraft:granite",
+    "minecraft:diorite"
+  ]
+}

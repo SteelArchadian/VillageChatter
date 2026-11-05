@@ -1,0 +1,24 @@
+{
+  "type": "villagequests:errand",
+  "weight": 8,
+  "givers": "adult",
+  "professions": [
+    "minecraft:librarian"
+  ],
+  "request": {
+    "item": "minecraft:book",
+    "count": {
+      "min": 4,
+      "max": 6
+    }
+  },
+  "deadline_days": 3,
+  "rewards": {
+    "emeralds_per_item": 0.6,
+    "xp_per_item": 2.0,
+    "goodwill": {
+      "giver": 1.5,
+      "village": 0.3
+    }
+  }
+}

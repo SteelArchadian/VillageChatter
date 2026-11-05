@@ -1,0 +1,28 @@
+{
+  "type": "villagequests:errand",
+  "weight": 10,
+  "givers": "adult",
+  "professions": [
+    "minecraft:farmer",
+    "minecraft:butcher",
+    "minecraft:shepherd",
+    "minecraft:fletcher"
+  ],
+  "request": {
+    "item": "minecraft:spider_eye",
+    "count": {
+      "min": 6,
+      "max": 10
+    }
+  },
+  "deadline_days": 3,
+  "rewards": {
+    "emeralds_per_item": 0.35,
+    "xp_per_item": 1.5,
+    "goodwill": {
+      "giver": 1.5,
+      "village": 0.4
+    }
+  },
+  "variants": 2
+}

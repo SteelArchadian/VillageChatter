@@ -1,0 +1,22 @@
+{
+  "type": "villagequests:errand",
+  "weight": 8,
+  "givers": "guard",
+  "request": {
+    "tag": "#minecraft:head_armor",
+    "display": "villagequests.request.helmet",
+    "count": 1
+  },
+  "deadline_days": 3,
+  "rewards": {
+    "emeralds": {
+      "min": 2,
+      "max": 4
+    },
+    "xp": 6,
+    "goodwill": {
+      "giver": 6.0,
+      "village": 0.5
+    }
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "professions": [
+    "minecraft:toolsmith"
+  ],
+  "love": [
+    "minecraft:anvil",
+    "minecraft:diamond",
+    "minecraft:smithing_table",
+    "minecraft:netherite_scrap"
+  ],
+  "like": [
+    "minecraft:iron_ingot",
+    "minecraft:copper_ingot",
+    "minecraft:redstone",
+    "minecraft:amethyst_shard",
+    "minecraft:iron_block"
+  ],
+  "meh": [
+    "#minecraft:coals",
+    "#c:ingots",
+    "minecraft:stone",
+    "minecraft:cobblestone",
+    "minecraft:stick"
+  ]
+}

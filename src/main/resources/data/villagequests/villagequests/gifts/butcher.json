@@ -1,0 +1,23 @@
+{
+  "professions": [
+    "minecraft:butcher"
+  ],
+  "love": [
+    "minecraft:rabbit_stew",
+    "minecraft:smoker",
+    "minecraft:cooked_beef"
+  ],
+  "like": [
+    "minecraft:cooked_porkchop",
+    "minecraft:cooked_mutton",
+    "minecraft:cooked_chicken",
+    "minecraft:sweet_berries",
+    "minecraft:dried_kelp_block"
+  ],
+  "meh": [
+    "#minecraft:coals",
+    "minecraft:beef",
+    "minecraft:porkchop",
+    "minecraft:chicken"
+  ]
+}

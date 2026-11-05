@@ -1,0 +1,22 @@
+{
+  "professions": [
+    "morevillagers:oceanographer"
+  ],
+  "love": [
+    "minecraft:heart_of_the_sea",
+    "minecraft:nautilus_shell",
+    "minecraft:conduit",
+    "minecraft:turtle_egg"
+  ],
+  "like": [
+    "minecraft:prismarine_shard",
+    "minecraft:prismarine_crystals",
+    "#minecraft:coral_blocks",
+    "minecraft:sea_pickle",
+    "minecraft:sponge"
+  ],
+  "meh": [
+    "minecraft:kelp",
+    "#minecraft:fishes"
+  ]
+}

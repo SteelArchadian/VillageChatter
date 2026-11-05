@@ -1,0 +1,24 @@
+{
+  "type": "villagequests:errand",
+  "weight": 8,
+  "givers": "adult",
+  "professions": [
+    "minecraft:leatherworker"
+  ],
+  "request": {
+    "item": "minecraft:leather",
+    "count": {
+      "min": 6,
+      "max": 10
+    }
+  },
+  "deadline_days": 3,
+  "rewards": {
+    "emeralds_per_item": 0.25,
+    "xp_per_item": 0.8,
+    "goodwill": {
+      "giver": 1.0,
+      "village": 0.25
+    }
+  }
+}

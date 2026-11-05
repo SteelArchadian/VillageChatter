@@ -1,0 +1,22 @@
+{
+  "type": "villagequests:errand",
+  "weight": 6,
+  "givers": "adult",
+  "request": {
+    "item": "minecraft:lantern",
+    "count": {
+      "min": 2,
+      "max": 4
+    }
+  },
+  "deadline_days": 2,
+  "rewards": {
+    "emeralds_per_item": 1.0,
+    "xp_per_item": 2.0,
+    "goodwill": {
+      "giver": 1.0,
+      "village": 0.3
+    }
+  },
+  "variants": 2
+}

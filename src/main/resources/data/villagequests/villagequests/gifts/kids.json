@@ -1,0 +1,25 @@
+{
+  "professions": [],
+  "baby": true,
+  "love": [
+    "minecraft:cookie",
+    "minecraft:cake",
+    "minecraft:slime_ball",
+    "minecraft:glow_berries"
+  ],
+  "like": [
+    "minecraft:sweet_berries",
+    "minecraft:apple",
+    "minecraft:egg",
+    "minecraft:feather",
+    "#minecraft:small_flowers",
+    "minecraft:amethyst_shard",
+    "minecraft:music_disc_cat"
+  ],
+  "meh": [
+    "minecraft:stick",
+    "minecraft:bread",
+    "minecraft:carrot",
+    "#c:foods"
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "type": "villagequests:rescue",
+  "weight": 3,
+  "variants": 2,
+  "location": {
+    "kinds": [
+      "structure",
+      "surface"
+    ],
+    "structures": "#villagequests:rescue_sites",
+    "min_distance": 160,
+    "max_distance": 1000
+  },
+  "deadline_days": 6,
+  "rewards": {
+    "emeralds": {
+      "min": 10,
+      "max": 16
+    },
+    "xp": 30,
+    "goodwill": {
+      "giver": 3.0,
+      "village": 1.0
+    },
+    "reputation": {
+      "returned": 8
+    }
+  }
+}

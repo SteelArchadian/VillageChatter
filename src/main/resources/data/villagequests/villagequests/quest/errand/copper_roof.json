@@ -1,0 +1,24 @@
+{
+  "type": "villagequests:errand",
+  "weight": 8,
+  "givers": "adult",
+  "professions": [
+    "minecraft:mason"
+  ],
+  "request": {
+    "item": "minecraft:copper_ingot",
+    "count": {
+      "min": 16,
+      "max": 32
+    }
+  },
+  "deadline_days": 3,
+  "rewards": {
+    "emeralds_per_item": 0.06,
+    "xp_per_item": 0.2,
+    "goodwill": {
+      "giver": 1.0,
+      "village": 0.25
+    }
+  }
+}

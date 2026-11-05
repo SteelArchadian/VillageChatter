@@ -1,0 +1,72 @@
+{
+  "scale": 4,
+  "parts": {
+    "box_fill": {
+      "w": 128,
+      "h": 128,
+      "bx": 48,
+      "by": 48
+    },
+    "box_frame": {
+      "w": 128,
+      "h": 128,
+      "bx": 48,
+      "by": 48
+    },
+    "tab_fill": {
+      "w": 96,
+      "h": 48,
+      "bx": 16,
+      "by": 16
+    },
+    "tab_frame": {
+      "w": 96,
+      "h": 48,
+      "bx": 16,
+      "by": 16
+    },
+    "opt_fill": {
+      "w": 96,
+      "h": 56,
+      "bx": 32,
+      "by": 28
+    },
+    "opt_frame": {
+      "w": 96,
+      "h": 56,
+      "bx": 32,
+      "by": 28
+    },
+    "sel_fill": {
+      "w": 96,
+      "h": 56,
+      "bx": 32,
+      "by": 28
+    },
+    "sel_frame": {
+      "w": 96,
+      "h": 56,
+      "bx": 32,
+      "by": 28
+    },
+    "cursor": {
+      "w": 28,
+      "h": 36,
+      "bx": 0,
+      "by": 0
+    }
+  },
+  "font": "villagechatter:dialogue",
+  "text": "#EDE3C8",
+  "name": "#F0D7A0",
+  "option": "#BFAF8E",
+  "selected": "#FFF4DA",
+  "narration": "#CFC3A6",
+  "shadow": true,
+  "alpha": {
+    "box": 1.0,
+    "opt": 0.9,
+    "sel": 1.1,
+    "frame": 1.0
+  }
+}

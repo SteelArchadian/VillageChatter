@@ -1,0 +1,21 @@
+{
+  "type": "villagequests:errand",
+  "weight": 4,
+  "givers": "adult",
+  "request": {
+    "item": "minecraft:cherry_leaves",
+    "count": {
+      "min": 12,
+      "max": 20
+    }
+  },
+  "deadline_days": 4,
+  "rewards": {
+    "emeralds_per_item": 0.15,
+    "xp_per_item": 0.6,
+    "goodwill": {
+      "giver": 1.5,
+      "village": 0.3
+    }
+  }
+}

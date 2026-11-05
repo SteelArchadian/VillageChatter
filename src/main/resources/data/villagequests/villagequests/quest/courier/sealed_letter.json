@@ -1,0 +1,26 @@
+{
+  "type": "villagequests:courier",
+  "weight": 10,
+  "givers": "adult",
+  "professions": [],
+  "package": {
+    "item": "minecraft:paper",
+    "count": {
+      "min": 1,
+      "max": 1
+    }
+  },
+  "recipients": [],
+  "deadline_days": 4,
+  "rewards": {
+    "emeralds": {
+      "min": 1,
+      "max": 3
+    },
+    "xp": 6,
+    "goodwill": {
+      "giver": 2.0,
+      "village": 0.6
+    }
+  }
+}

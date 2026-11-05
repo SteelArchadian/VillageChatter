@@ -1,0 +1,9 @@
+{
+  "values": [
+    "minecraft:mansion",
+    {
+      "id": "minecraft:ancient_city",
+      "required": false
+    }
+  ]
+}

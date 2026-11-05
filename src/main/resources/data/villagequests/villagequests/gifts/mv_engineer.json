@@ -1,0 +1,23 @@
+{
+  "professions": [
+    "morevillagers:engineer"
+  ],
+  "love": [
+    "minecraft:crafter",
+    "minecraft:observer",
+    "minecraft:redstone_block",
+    "minecraft:sticky_piston"
+  ],
+  "like": [
+    "minecraft:redstone",
+    "minecraft:repeater",
+    "minecraft:comparator",
+    "minecraft:piston",
+    "minecraft:copper_ingot",
+    "minecraft:hopper"
+  ],
+  "meh": [
+    "minecraft:iron_ingot",
+    "minecraft:stone"
+  ]
+}

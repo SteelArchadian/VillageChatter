@@ -1,0 +1,25 @@
+{
+  "type": "villagequests:build",
+  "weight": 8,
+  "professions": [
+    "minecraft:farmer"
+  ],
+  "requirement": {
+    "kind": "blocks",
+    "block": "minecraft:farmland",
+    "add": 20,
+    "radius": 20
+  },
+  "deadline_days": 7,
+  "rewards": {
+    "emeralds": {
+      "min": 5,
+      "max": 8
+    },
+    "xp": 12,
+    "goodwill": {
+      "giver": 2.0,
+      "village": 0.5
+    }
+  }
+}

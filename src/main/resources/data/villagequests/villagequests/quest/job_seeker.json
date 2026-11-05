@@ -1,0 +1,19 @@
+{
+  "type": "villagequests:job",
+  "weight": 14,
+  "deadline_days": 5,
+  "rewards": {
+    "emeralds": {
+      "min": 2,
+      "max": 3
+    },
+    "xp": 12,
+    "discount_days": 1,
+    "discount": 0.25,
+    "goodwill": {
+      "giver": 2.0,
+      "village": 0.5
+    }
+  },
+  "variants": 3
+}

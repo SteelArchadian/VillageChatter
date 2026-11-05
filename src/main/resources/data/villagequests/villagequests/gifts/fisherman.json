@@ -1,0 +1,24 @@
+{
+  "professions": [
+    "minecraft:fisherman"
+  ],
+  "love": [
+    "minecraft:nautilus_shell",
+    "minecraft:heart_of_the_sea",
+    "minecraft:axolotl_bucket",
+    "minecraft:trident"
+  ],
+  "like": [
+    "minecraft:cooked_cod",
+    "minecraft:cooked_salmon",
+    "minecraft:string",
+    "minecraft:fishing_rod",
+    "minecraft:tropical_fish",
+    "minecraft:prismarine_shard"
+  ],
+  "meh": [
+    "#minecraft:fishes",
+    "#minecraft:boats",
+    "minecraft:kelp"
+  ]
+}

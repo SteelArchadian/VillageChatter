@@ -1,0 +1,27 @@
+{
+  "professions": [
+    "minecraft:farmer"
+  ],
+  "love": [
+    "minecraft:golden_carrot",
+    "minecraft:torchflower_seeds",
+    "minecraft:pitcher_pod",
+    "minecraft:sniffer_egg"
+  ],
+  "like": [
+    "minecraft:bone_meal",
+    "minecraft:honey_bottle",
+    "minecraft:sweet_berries",
+    "minecraft:composter",
+    "minecraft:hay_block",
+    "minecraft:melon_slice"
+  ],
+  "meh": [
+    "minecraft:wheat_seeds",
+    "minecraft:wheat",
+    "minecraft:carrot",
+    "minecraft:potato",
+    "minecraft:beetroot_seeds",
+    "minecraft:pumpkin_seeds"
+  ]
+}
