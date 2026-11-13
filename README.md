@@ -8,4 +8,6 @@
 
 <a href="https://github.com/SteelArchadian/VillageChatter/issues"><img src="https://raw.githubusercontent.com/SteelArchadian/VillageChatter/main/.github/page/ideas.png" alt="Got an idea?"></a>
 
+Dialogue unlocks new chances to persuade, haggle, intimidate and bribe. Talk your way out of trouble, or into a better deal. Every action has consequences. Witnesses report crimes. Cleverness is rewarded. The careless are punished. Build a reputation and gain allies. For the right price, a guard becomes your loyal sword.
+
 Made with AI assistance.
